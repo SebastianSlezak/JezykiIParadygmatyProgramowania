@@ -1,0 +1,4 @@
+﻿  interfejs.c
+c:\users\sebastian\source\repos\projektzaliczeniowystack\projektzaliczeniowystack\interfejs.c(58): warning C4013: niezdefiniowany "strcmp"; przy założeniu, że extern zwraca int
+c:\users\sebastian\source\repos\projektzaliczeniowystack\projektzaliczeniowystack\interfejs.c(83): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+c:\users\sebastian\source\repos\projektzaliczeniowystack\projektzaliczeniowystack\interfejs.c(105): error C4700: użycie niezainicjowanej zmiennej lokalnej "student"
